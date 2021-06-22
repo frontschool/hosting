@@ -1,0 +1,14 @@
+div {
+  width: 150px;
+  height: 150px;
+  border-radius: 20px;
+  margin: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2em;
+}
+
+img {
+  width: 200px;
+}
